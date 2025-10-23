@@ -5,7 +5,7 @@
 - I’m always learning — improving my code, design sense, and problem-solving skills.  
 - Outside of coding, I’m into **CrossFit**, **running** and **Olympic weightlifting**, which keep me grounded and goal-driven.  
 
-## Languages & Tools  
+## 🧰 Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -23,7 +23,12 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </p>
 
-## Github Stats  
+
+## 🧩 Open Source Contributions
+- [**react-native-cn-quill**](https://github.com/imnapo/react-native-cn-quill/pull/100) — Added a **dynamic placeholder** feature to the web-view editor as part of an open-source contribution.
+
+
+## 📊 GitHub Stats
 
 <div align="left">
   <a href="https://github.com/sangmin-iam">
@@ -33,4 +38,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin-iam&layout=compact&langs_count=8&theme=gotham"/>
   </a>
 </div>
-
