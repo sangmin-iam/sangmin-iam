@@ -1,6 +1,6 @@
 ## 👋 About Me  
 
-- Hey there! I'm **Sangmin Na**, a software engineer based in Bothell, WA 👨🏻‍💻  
+- Hey there! I'm **Sangmin Na**, a software engineer based in Greater Seattle Area 👨🏻‍💻  
 - I love building **web and mobile applications** that make people’s lives a little easier.  
 - I’m always learning — improving my code, design sense, and problem-solving skills.  
 - Outside of coding, I’m into **CrossFit**, **running** and **Olympic weightlifting**, which keep me grounded and goal-driven.  
