@@ -38,3 +38,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin-iam&layout=compact&langs_count=8&theme=gotham"/>
   </a>
 </div>
+
+---
+
+💬 Always happy to connect — feel free to reach out on [LinkedIn](https://linkedin.com/in/sangmin-na)!
