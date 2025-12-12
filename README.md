@@ -27,18 +27,6 @@
 ## 🧩 Open Source Contributions
 - [**react-native-cn-quill**](https://github.com/imnapo/react-native-cn-quill/pull/100) — Added a **dynamic placeholder** feature to the web-view editor as part of an open-source contribution.
 
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <a href="https://github.com/sangmin-iam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangmin-iam&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/sangmin-iam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin-iam&layout=compact&langs_count=8&theme=gotham"/>
-  </a>
-</div>
-
 ---
 
 💬 Always happy to connect — feel free to reach out on [LinkedIn](https://linkedin.com/in/sangmin-na)!
